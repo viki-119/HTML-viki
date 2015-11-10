@@ -1,0 +1,44 @@
+//在css文件中开头可以插入 @CHARSET "UTF-8";
+	
+	<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+	<head>
+	//gb2312
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>transform</title>
+	<link href="test.css" type="text/css" rel="stylesheet"/>
+	<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+	<script>
+		var jq191 = jQuery.noConflict(true);
+		window.jQuery = window.$ = jq191;
+	</script>
+	
+
+	<style type="text/css">      </style>
+	
+
+	</head>
+	<body>
+		<div>
+			<label for="tid">用户名:</label>
+			<input id="tid" type="text" value="用户名 " />
+	                <input type="text" value="不可用值1" disabled="disabled">
+	                <input type="text" value="不可用值2" disabled="false">
+	                <input type="button" value="隐藏图片" onclick="document.getElementById('p1').style.visibility='hidden'" />
+			<input type="button" value="显示图片" onclick="document.getElementById('p1').style.visibility='visible'" />
+		</div>
+	        <input type="text" value="哈韩哈 " id="tid">
+	        <button>保存</button>
+		<form id="xxx">
+			<input id="" type="text">
+			<input id="tttt" type="submit" value="submit">
+		</form>
+		<select id="BusinessProcess">
+			<option value="张大伟">张大伟</option>
+			<option value="张大伟">张大伟</option>
+			<option value="张大伟">张大伟</option>
+		</select>
+		<a href="#">tttt</a>//会返回到顶部
+		<a href="javascript:void(0)">gggggg</a>//什么都不做
+	</body>
+	</html>
