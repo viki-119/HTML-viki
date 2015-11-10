@@ -1,2 +1,4 @@
 # HTML
-simple introduction
+
+http://www.w3cfuns.com/
+http://tool.oschina.net/apidocs/
