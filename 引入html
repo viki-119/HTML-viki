@@ -50,6 +50,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <title></title> 
 </head> 
-<body bgcolor="#FFFFE7" text="#000000" link="#3300FF" alink="#FF00FF" vlink="#9900FF" background="8888.png" bgproperties="fixed" style="background-attachment:fixed;"> 
+<body bgcolor="#FFFFE7" text="#000000" link="#3300FF" alink="#FF00FF" vlink="#9900FF" 
+background="8888.png" bgproperties="fixed" style="background-attachment:fixed;"> 
 </body> 
 </html>
