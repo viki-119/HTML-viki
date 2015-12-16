@@ -48,3 +48,5 @@ http://auth-smb-psg-pro-sitebuilder.houston.hp.com/campaign/internal_products/cn
 http://blog.csdn.net/johnstrive/article/details/26468781
 
 虚拟机启动问题：http://blog.sina.com.cn/s/blog_6c868c47010149od.html
+
+ 如何实现2003终端远程桌面，复制文件到本地来：http://bbs.51cto.com/thread-821650-1.html
