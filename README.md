@@ -50,3 +50,7 @@ http://blog.csdn.net/johnstrive/article/details/26468781
 虚拟机启动问题：http://blog.sina.com.cn/s/blog_6c868c47010149od.html
 
  如何实现2003终端远程桌面，复制文件到本地来：http://bbs.51cto.com/thread-821650-1.html
+
+网站流量统计：51la 
+
+http://jingyan.baidu.com/article/5225f26b681032e6fa090800.html
