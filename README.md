@@ -42,3 +42,5 @@ react
 web app
 
 http://auth-smb-psg-pro-sitebuilder.houston.hp.com/campaign/internal_products/cn/zh/1009/index.html
+
+虚拟机安装问题之虚拟化技术：http://blog.csdn.net/jk007/article/details/8455015     http://blog.csdn.net/johnstrive/article/details/26468781
