@@ -19,6 +19,8 @@ http://www.runoob.com/
 
 https://github.com
 
+爱酷：http://www.icoolxue.com/
+
 数据库安装配置教程
 
 http://jingyan.baidu.com/article/ae97a64696408abbfd461df8.html
