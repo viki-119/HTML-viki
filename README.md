@@ -1,4 +1,6 @@
 # HTML
+华为刷机：http://news.mydrivers.com/1/302/302617.htm
+
 ruby：http://edu.51cto.com/index.php?do=lession&id=26534
 
 菜鸟教程技术学习网站：http://www.runoob.com/
