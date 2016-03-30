@@ -1,5 +1,10 @@
 # HTML
+
 华为刷机：http://news.mydrivers.com/1/302/302617.htm
+
+http://www.netded.com/a/jingpinshouji/2013/0119/25377.html
+
+http://www.netded.com/a/jishuyingyong/2013/0119/25376.html
 
 ruby：http://edu.51cto.com/index.php?do=lession&id=26534
 
