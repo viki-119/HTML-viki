@@ -1,5 +1,7 @@
 # HTML
 
+临港漕河泾培训网：http://pst.hrstage.com/
+
 华为刷机：http://news.mydrivers.com/1/302/302617.htm
 
 http://www.netded.com/a/jingpinshouji/2013/0119/25377.html
