@@ -1,7 +1,7 @@
 # HTML
-http://gitlab.alibaba-inc.com/hl103499/newcomer/issues/1
+mdn: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map  
 
-翻墙软件：蓝灯
+翻墙软件：蓝灯  
 
 如何进入组策略？http://os.51cto.com/art/201107/279423.htm
 
